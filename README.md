@@ -1,6 +1,5 @@
 # gooddata-js-interview
 Frontend Interview Examples
-Test
 
 ## GoodData Homework
 
